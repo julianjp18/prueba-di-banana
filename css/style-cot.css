@@ -1,0 +1,40 @@
+.intro{
+  background: url(https://www.kuadrasas.com/assets/images/page-title/kuadra-cotizaciones.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 91vh; 
+}
+
+.intro .container .row h2{
+  margin-top: 35vh;
+  font-size: 4em;
+  color: #2f2f2f;
+  border-top: 2px solid #ed6d20;
+  border-bottom: 2px solid #ed6d20;
+}
+
+.intro .container .row span{
+  color:#ed6d20;
+}
+
+
+.container.contact .form label{
+  font-weight: 600;
+}
+
+.container.contact .form button{
+  background: #ed6d20;
+  border-color: #ed6d20;
+}
+
+.container.contact .form button:hover{
+  opacity: .8;
+  transition: .4s;
+}
+
+.container.contact .row .img-maps{
+  max-width: 100%;
+  margin-top: 6em;
+}

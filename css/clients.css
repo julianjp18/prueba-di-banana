@@ -1,0 +1,19 @@
+.container.container-clients{
+  padding-bottom: 6em;
+}
+
+.container.container-clients .clients{
+  text-align: center;
+}
+
+.container .clients .title-clients{
+  padding: 2em 0 1em 0;
+  font-size: 20px;
+}
+
+.container .clients .title-clients span{
+  font-size: 50px;
+  font-weight: 700;
+  border: 2px solid #ed6d20;
+  padding: 3px 19px;
+}

@@ -1,0 +1,35 @@
+.container-footer{
+  background: #1f1f1f;
+}
+
+.container-footer h4, .container-footer h5{
+  margin-top: 5vh;
+  color: white;
+}
+
+.container-footer p, .container-footer i,.container-footer ul li{
+  color:#9e9e9e;
+}
+.container-footer i{
+  font-size: 50px;
+}
+
+.container-footer ul{
+  list-style: none;
+}
+
+.container-footer ul li:hover, .container-footer .fab:hover{
+  color: #ed6d20;
+  cursor: pointer;
+  transition: .2s linear;
+}
+
+.copy{
+background: #1c1c1c;
+}
+
+.copy p{
+  margin: 0;
+  padding: 2em 0;
+  color: #9e9e9e;
+}

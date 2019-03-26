@@ -1,0 +1,36 @@
+.container .navbar.bg-light{
+  background: #ffffff !important;
+}
+
+.navbar-light .navbar-brand{
+  margin-left: 1em;
+}
+.navbar-light .navbar-nav .nav-link{
+  margin-left: 2vh;
+}
+
+.navbar-light .navbar-nav .nav-link, .dropdown-item{
+  color: rgba(0,0,0,.7);;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  color: #ed6d20;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+
+.dropdown-item:hover{
+  background: #ed6d20;
+  color: white;
+  transition: 0.4s linear;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  transition: 0.3s;
+}

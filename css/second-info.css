@@ -1,0 +1,26 @@
+.container-fluid.second-info{
+  background-color: #ed6d20;
+}
+
+.container-fluid.second-info .row .col-sm-4 p{
+  text-align: center;
+  margin-top: 3vh;
+}
+
+.container-fluid.second-info .row .col-sm-4 p span{
+  color: #f0f0f0;
+}
+
+.container-fluid.second-info .row .col-sm-4 .fab{
+  font-size: 27px;
+  color: #f0f0f0;
+  margin-top: 3vh;
+}
+
+.container-fluid.second-info .row .col-sm-4 .fab:hover{
+  color:#2f2f2f;
+  transition: .3s;
+}
+.container-fluid.second-info .row .col-sm-4 .fab:nth-child(1){
+  margin-left: 50%;
+}

@@ -1,0 +1,14 @@
+
+.third-info{
+  padding: 2em 9vh;
+  background: #ed6d20;
+  color: #f0f0f0;
+}
+
+.third-info span{
+  color: #1f1f1f;
+}
+
+.third-info .fas, .third-info .far{
+  font-size: 28px;
+}
